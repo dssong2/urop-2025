@@ -1,0 +1,7 @@
+pandas
+geopandas
+pydeck
+matplotlib
+folium
+census
+us
